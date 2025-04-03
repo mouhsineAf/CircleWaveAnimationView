@@ -1,6 +1,6 @@
 # 🌊 WaveAnimationView
 
-[![](https://jitpack.io/v/com.github.mouhsineAf/waveanimationview.svg)](https://jitpack.io/#com.github.mouhsineAf/circlewaveanimationview)
+[![](https://jitpack.io/v/mouhsineAf/circlewaveanimationview.svg)](https://jitpack.io/#mouhsineAf/circlewaveanimationview)
 
 A simple, elegant, and customizable **Wave Animation View** for Android. This view renders animated waveforms that can be used for decorative UI components, music visualizations, splash screens, loading animations, or any creative fluid effects in your app.
 
